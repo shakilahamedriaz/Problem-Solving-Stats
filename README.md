@@ -2,7 +2,7 @@
 
 | Platform| Profile | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
-| Codeforces | [shakilahamedriaz](https://codeforces.com/profile/shakilahamedriaz)| 877 (newbie) | [297](https://github.com/shakilahamedriaz) |
+| Codeforces | [shakilahamedriaz](https://codeforces.com/profile/shakilahamedriaz)| 877 (newbie) | [300](https://github.com/shakilahamedriaz) |
 | CodeChef | [shakilahamedriaz](https://www.codechef.com/users/shakilahamedriaz) |  | [90](https://github.com/shakilahamedriaz) |
 | AtCoder | [shakilahamedriaz](https://atcoder.jp/users/shakilahamedriaz) |  | 0 |
 | LeetCode | [shakilahamedriaz]() |  | 20 |
@@ -15,6 +15,6 @@
 | HackerRank | [shakilahamedriaz](https://www.hackerrank.com/shakilahamedriaz) |  | 18 |
 | Toph | [shakilahamedriaz](https://toph.co/u/shakilahamedriaz) |  | 11 |
 | VJudge | [shakilahamedriaz](https://vjudge.net/user/shakilahamed221) |  | 13 |
-| Total |  |  | 635 |
+| Total |  |  | 638 |
 
 Last Updated: 24 October, 2023
