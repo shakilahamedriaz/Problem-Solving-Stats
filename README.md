@@ -12,9 +12,10 @@
 | UVA | [shakilahamedriaz](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3) |  | 0 |
 | BeeCrowed | [shakilahamedriaz](https://www.beecrowd.com.br/judge/en/profile/622273) |  | [176](https://github.com/shakilahamedriaz) | 
 | HackerEarth | [shakilahamedriaz](https://www.hackerearth.com/@shakilahamedriaz) |  | 0 |
+| Codingninjas | [shakilahamedriaz](https://www.codingninjas.com/studio/profile/8eb2fe54-2df3-4145-991d-f3a3ff4c15d4) |  | 17 |
 | HackerRank | [shakilahamedriaz](https://www.hackerrank.com/shakilahamedriaz) |  | 18 |
 | Toph | [shakilahamedriaz](https://toph.co/u/shakilahamedriaz) |  | 11 |
 | VJudge | [shakilahamedriaz](https://vjudge.net/user/shakilahamed221) |  | 13 |
-| Total |  |  | 641 |
+| Total |  |  | 658 |
 
-Last Updated: 24 October, 2023
+Last Updated: 31 October, 2023
